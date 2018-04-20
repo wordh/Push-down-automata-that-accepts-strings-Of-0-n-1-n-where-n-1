@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524229746 source:c:\users\wordh ul hasan\desktop\ass2\main.cpp
+	<iostream>
+	<string.h>
+	<stack>
+
